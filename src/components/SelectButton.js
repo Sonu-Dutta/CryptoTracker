@@ -6,8 +6,6 @@ const SelectButton = ({ children, selected, onClick }) => {
       border: "1px solid #05d0eb",
       borderRadius: 5,
       padding: 10,
-      paddingLeft: 20,
-      paddingRight: 20,
       fontFamily: "Righteous",
       cursor: "pointer",
       backgroundColor: selected ? "#05d0eb" : "",

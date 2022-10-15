@@ -24,6 +24,7 @@ const Carousel = () => {
 
   const useStyles = makeStyles((theme) => ({
     carousel: {
+      marginTop: "30px",
       background: "rgb(255,255,255,0.257)",
       height: "50%",
       display: "flex",
