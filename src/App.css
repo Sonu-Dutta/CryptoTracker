@@ -1,0 +1,17 @@
+* {
+  font-family: "Righteous";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: #05d0eb;
+}
+
+#banner {
+  background: linear-gradient(rgba(2, 2, 2, 0.4),
+      rgba(3, 3, 3, 0.8)), url('../src/assests/banner.jpg')
+}
